@@ -13,7 +13,6 @@ var x = require('../abc.xml');
     describe('#getUrl()', function () {
         it(abc, function () {
             var a=2;
-            var c=3;
             var b=2;
             expect(a).to.equal(2);
         });
