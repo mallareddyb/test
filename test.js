@@ -10,7 +10,7 @@ var expect = require('chai').expect;
 
 
     describe('#getUrl()', function () {
-        it(abc, function () {
+        it('abc', function () {
             
             
             var c=383;
