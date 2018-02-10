@@ -6,12 +6,12 @@
 
 
 var expect = require('chai').expect;
-var x = require('../abc.xml');
+
 
 
 
     describe('#getUrl()', function () {
-        it(abc, function () {
+        it('abc', function () {
             
             
             var c=43;
