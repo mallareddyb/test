@@ -14,7 +14,7 @@ var x = require('../abc.xml');
         it(abc, function () {
             
             
-            var c=343;
+            var c=43;
             var a=2;
             var b=2;
             expect(a).to.equal(2);
