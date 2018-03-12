@@ -14,7 +14,7 @@ var expect = require('chai').expect;
         it('abc', function () {
             
             
-            var c=3800;
+            var c=38000;
             var a=2;
             var b=2;
             expect(a).to.equal(2);
